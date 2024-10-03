@@ -126,7 +126,7 @@ You can configure a [custom domain](./static-website-content-delivery-network.md
 
 ##### How do I use a custom Secure Sockets Layer (SSL) certificate with a static website?
 
-You can configure a [custom SSL](./static-website-content-delivery-network.md) certificate with a static website by using [Azure CDN](./storage-custom-domain-name.md#map-a-custom-domain-with-https-enabled). Azure CDN provides consistent low latencies to your website from anywhere in the world.
+You can configure a [custom SSL](./static-website-content-delivery-network.md) certificate with a static website by using [Azure CDN](./storage-custom-domain-name.md#using-azure-cdn). Azure CDN provides consistent low latencies to your website from anywhere in the world.
 
 ##### How do I add custom headers and rules with a static website?
 
